@@ -9,10 +9,13 @@ theme: /
     state: Hello
         intent!: /hello
         a: Hello hello
-        gol: /WhatsUp
+        go!: /WhatsUp
     
     state: WhatsUp
         a: What's up
+        go!: Whatare
+    state: Whatare
+        a: What are you doing?
 
     state: Bye
         intent!: /bye
