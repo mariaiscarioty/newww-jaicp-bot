@@ -9,7 +9,7 @@ theme: /
     state: Hello
         intent!: /hello
         a: Hello hello
-        gof: /WhatsUp
+        gol: /WhatsUp
     
     state: WhatsUp
         a: What's up
